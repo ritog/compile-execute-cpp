@@ -5,6 +5,9 @@ wget https://raw.githubusercontent.com/ghosh-r/compile-execute-cpp/main/ce.sh -P
 
 echo "!==========Script downloaded===========!"
 
+# Adding a comment for future reference
+echo '# CE-CPP RCs' >> ~/.bashrc
+
 # Adding script directory to PATH
 echo  'export PATH="~/.ce-cpp:$PATH"' >> ~/.bashrc
 
