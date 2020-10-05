@@ -11,7 +11,7 @@ This script lets you compile and run a C++ file with minimal typing. Works on \*
 * Bash along with an existing `.bashrc` file
 
 ### Get It
-Open a terminal and run `https://raw.githubusercontent.com/ghosh-r/compile-execute-cpp/main/ce_setup.sh`. This will download a file `ce_setup.sh` in your current directory.
+Open a terminal and run `wget https://raw.githubusercontent.com/ghosh-r/compile-execute-cpp/main/ce_setup.sh`. This will download a file `ce_setup.sh` in your current directory.
 
 ### Set-up
 * Run `chmod +x ce_setup.sh` to give it permission to execute.
