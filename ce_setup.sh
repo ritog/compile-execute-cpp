@@ -20,6 +20,8 @@ echo '!==============Alias ce set==============!'
 
 echo '###########SETUP COMPLETE################'
 
+echo 'Run `chmod +x ~/.ce-setup/ce.sh` once'
+
 echo 'Restart current terminal session or start a new one to start using ce-cpp'
 
 echo 'You can now use ce-cpp by running `ce <file-name>.cpp` to compile and execute a file with one command.'

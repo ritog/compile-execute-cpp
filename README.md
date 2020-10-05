@@ -14,9 +14,9 @@ This script lets you compile and run a C++ file with minimal typing. Works on \*
 Open a terminal and run `wget https://raw.githubusercontent.com/ghosh-r/compile-execute-cpp/main/ce_setup.sh`. This will download a file `ce_setup.sh` in your current directory.
 
 ### Set-up
-* Run `$ chmod +x ce_setup.sh` to give it permission to execute.
-* Run `$ sudo ./ce_setup.sh` to complete the setup.
-* When setup completes run `$ chmod +x ~/.ce-cpp/ce.sh` to make the main script executable by system. You only need to do it once.
+* Run `chmod +x ce_setup.sh` to give it permission to execute.
+* Run `sudo ./ce_setup.sh` to complete the setup.
+* When setup completes run `chmod +x ~/.ce-cpp/ce.sh` to make the main script executable by system. You only need to do it once.
 
 *Note: No root privilege required.*
 
@@ -43,13 +43,17 @@ Save and exit.
 Open terminal, run-
 
 
-`$ ce hello_world.cpp`
+`ce hello_world.cpp`
 
 You will get-
-Hello world
+
+
+> Hello world
 
 -----
 
 Thanks for using.
 
-Written fully using ![vim-logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/240px-Vimlogo.svg.png)
+Written using-
+
+![vim-logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/240px-Vimlogo.svg.png)
